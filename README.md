@@ -1,2 +1,2 @@
 # D-DIN-PRO
-A font inspire by D-DIN
+A DIN like font Inspire by D-DIN font.
