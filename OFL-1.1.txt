@@ -1,4 +1,4 @@
-Copyright (C) 2021 CyberFei Inc. https://github.com/CyberFei/D-DIN-PRO,
+Copyright (C) 2020 CyberFei Inc. https://github.com/CyberFei/D-DIN-PRO,
 with Reserved Font Names "D-DIN-PRO".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
