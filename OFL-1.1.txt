@@ -1,11 +1,5 @@
-Copyright (C) 2017 Datto Inc. https://www.datto.com/fonts/d-din,
-with Reserved Font Names "D-DIN".
-
-Copyright (C) 2017 Datto Inc. https://www.datto.com/fonts/d-din,
-with Reserved Font Names "D-DIN Condensed".
-
-Copyright (C) 2017 Datto Inc. https://www.datto.com/fonts/d-din,
-with Reserved Font Names "D-DIN Expanded".
+Copyright (C) 2021 Datto Inc. https://github.com/CyberFei/D-DIN-PRO,
+with Reserved Font Names "D-DIN-PRO".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at: 
